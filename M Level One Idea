@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T23:41:03.428Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="Y03l2IvR2nTQWZ-FcsSp" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T23:47:36.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="NyhlO9HxavdCsFfO3YiF" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="905" dy="-2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="rbpI2pTfqWh-9glp8UG0-6" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;Consistent lighting, more open space but crowded with architecture/objects" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1205" y="4260" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="k7dUBg5-WF2BYMw33X4B-2" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;More open space but crowded with architecture/objects" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="k7dUBg5-WF2BYMw33X4B-2" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;Damaged room, flickering light,audio disturbance" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1400" y="4260" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
