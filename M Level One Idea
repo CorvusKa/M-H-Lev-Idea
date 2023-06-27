@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-25T23:47:36.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="NyhlO9HxavdCsFfO3YiF" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-27T00:13:11.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="MLncQldN79qyV5y37fGy" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="905" dy="-2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="265" dy="-2554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -16,14 +16,29 @@
         <mxCell id="rbpI2pTfqWh-9glp8UG0-0" value="&lt;div&gt;&lt;b&gt;Corridor&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Consistent lighting but lower intensity, architecture is mostly undamaged, &lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rotation=0;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1210" y="4450" width="140" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="k7dUBg5-WF2BYMw33X4B-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rbpI2pTfqWh-9glp8UG0-6" target="k7dUBg5-WF2BYMw33X4B-2">
+        <mxCell id="k7dUBg5-WF2BYMw33X4B-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rbpI2pTfqWh-9glp8UG0-6" target="k7dUBg5-WF2BYMw33X4B-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rbpI2pTfqWh-9glp8UG0-6" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;Consistent lighting, more open space but crowded with architecture/objects" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1205" y="4260" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="k7dUBg5-WF2BYMw33X4B-2" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;Damaged room, flickering light,audio disturbance" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="trMNzowI7VtJNsK1UWpP-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k7dUBg5-WF2BYMw33X4B-2" target="trMNzowI7VtJNsK1UWpP-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trMNzowI7VtJNsK1UWpP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k7dUBg5-WF2BYMw33X4B-2" target="trMNzowI7VtJNsK1UWpP-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="trMNzowI7VtJNsK1UWpP-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k7dUBg5-WF2BYMw33X4B-2" target="trMNzowI7VtJNsK1UWpP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k7dUBg5-WF2BYMw33X4B-2" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;Damaged room, flickering light,audio disturbance, 1 section requires player to crouch" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1400" y="4260" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="trMNzowI7VtJNsK1UWpP-0" value="&lt;div&gt;&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Limited lighting, claustrophobic environment,&amp;nbsp; audio disturbance&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1600" y="4305" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="trMNzowI7VtJNsK1UWpP-3" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;Safe area, players first encounter with monster, audio disturbance, lighting disruption " style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1850" y="4260" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
