@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T22:06:25.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="OZNIsa5j_mevqmQPct1i" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T22:53:44.647Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="dqw0L7h6Yb22YuYcNEPf" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="265" dy="-2554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="ZPZOet-at7Rkig4fCnDB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ypDOlkb7LDiOMCDBWHFV-10" target="ZPZOet-at7Rkig4fCnDB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ypDOlkb7LDiOMCDBWHFV-10" value="&lt;b&gt;Room&lt;br&gt;&lt;/b&gt;Player drops in from a vent, first full encounter with monster, must sneak past" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ypDOlkb7LDiOMCDBWHFV-10" value="&lt;b&gt;Room&lt;br&gt;&lt;/b&gt;Damaged room, flickering lighting throughout, player drops in from a vent, first full encounter with monster, must sneak past" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1625" y="4720" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ZPZOet-at7Rkig4fCnDB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZPZOet-at7Rkig4fCnDB-2" target="ZPZOet-at7Rkig4fCnDB-6" edge="1">
