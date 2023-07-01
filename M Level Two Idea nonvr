@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-01T22:55:40.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="SEXIfkKOJjlkvfqwkOPV" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-01T23:19:43.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="j6brzanaZURJj-AUS-tA" version="21.5.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -8,16 +8,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mef2pbBufdvIPDnCscVr-0" value="&lt;b&gt;Start&lt;/b&gt;&lt;br&gt;Crowed damaged room as player leaves the previous end level room, loud audio disturbance" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="960" width="200" height="200" as="geometry" />
+          <mxGeometry x="20" y="1440" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="a2WM-CwuGTrOnNJYhI8R-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mef2pbBufdvIPDnCscVr-1" target="a2WM-CwuGTrOnNJYhI8R-0">
+        <mxCell id="a2WM-CwuGTrOnNJYhI8R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mef2pbBufdvIPDnCscVr-1" target="a2WM-CwuGTrOnNJYhI8R-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mef2pbBufdvIPDnCscVr-1" value="&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;Limited lighting, claustrophobic environment,&amp;nbsp; audio disturbance" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="10" y="850" width="200" height="60" as="geometry" />
+        <mxCell id="mef2pbBufdvIPDnCscVr-1" value="&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;Limited lighting, claustrophobic damaged environment,&amp;nbsp; audio disturbance" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="20" y="1330" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a2WM-CwuGTrOnNJYhI8R-0" value="&lt;b&gt;Room&lt;/b&gt;&lt;br&gt;Inconsistent lighting, damaged environment, area where the monster appears and is hunting the player throughout, " style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="600" width="200" height="200" as="geometry" />
+          <mxGeometry x="520" y="1080" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a2WM-CwuGTrOnNJYhI8R-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a2WM-CwuGTrOnNJYhI8R-3" target="a2WM-CwuGTrOnNJYhI8R-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2WM-CwuGTrOnNJYhI8R-3" value="&lt;b&gt;Room&lt;/b&gt;&lt;br&gt;Inconsistent lighting, damaged environment, player is descending further into the facility, audio disturbance, darkness enveloping" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="1080" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a2WM-CwuGTrOnNJYhI8R-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a2WM-CwuGTrOnNJYhI8R-6" target="a2WM-CwuGTrOnNJYhI8R-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a2WM-CwuGTrOnNJYhI8R-6" value="&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;Limited lighting, claustrophobic damaged environment,&amp;nbsp; audio disturbance" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="270" y="1150" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
