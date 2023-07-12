@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-03T22:28:44.814Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="c5ycI6kybbl8NEoiksnE" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T23:46:25.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="DroTGbUPHa_jVsvS7ajg" version="21.6.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -16,10 +16,10 @@
         <mxCell id="mef2pbBufdvIPDnCscVr-1" value="&lt;b&gt;Corridor&lt;/b&gt;&lt;br&gt;Limited lighting, claustrophobic damaged environment,&amp;nbsp; audio and visual disturbance" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="1330" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eErwW0Pumjf_54Cr9qTD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a2WM-CwuGTrOnNJYhI8R-0" target="eErwW0Pumjf_54Cr9qTD-0">
+        <mxCell id="eErwW0Pumjf_54Cr9qTD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a2WM-CwuGTrOnNJYhI8R-0" target="eErwW0Pumjf_54Cr9qTD-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a2WM-CwuGTrOnNJYhI8R-0" value="&lt;b&gt;Room&lt;/b&gt;&lt;br&gt;Inconsistent lighting, damaged environment, area where the monster appears and is hunting the player throughout " style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="a2WM-CwuGTrOnNJYhI8R-0" value="&lt;b&gt;Room&lt;/b&gt;&lt;br&gt;Inconsistent lighting, damaged environment, area where the monster appears and player must sneak past" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="1080" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="a2WM-CwuGTrOnNJYhI8R-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="a2WM-CwuGTrOnNJYhI8R-3" target="a2WM-CwuGTrOnNJYhI8R-6" edge="1">
@@ -34,14 +34,32 @@
         <mxCell id="a2WM-CwuGTrOnNJYhI8R-6" value="&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;Limited lighting, claustrophobic damaged environment,&amp;nbsp; audio disturbance" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" y="1150" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eErwW0Pumjf_54Cr9qTD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eErwW0Pumjf_54Cr9qTD-0" target="eErwW0Pumjf_54Cr9qTD-3">
+        <mxCell id="eErwW0Pumjf_54Cr9qTD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eErwW0Pumjf_54Cr9qTD-0" target="eErwW0Pumjf_54Cr9qTD-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eErwW0Pumjf_54Cr9qTD-0" value="&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Limited lighting, claustrophobic damaged environment,&amp;nbsp; audio disturbance, brief moment where monster cannot reach player&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="eErwW0Pumjf_54Cr9qTD-0" value="&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Limited lighting, claustrophobic damaged environment,&amp;nbsp; audio disturbance, brief moment where monster cannot reach player&lt;/font&gt;" style="whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="503.34" y="1325" width="233.33" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="eErwW0Pumjf_54Cr9qTD-3" value="&lt;b&gt;Room&lt;/b&gt;&lt;br&gt;Inconsistent lighting, damaged environment, monster resumes hunting player, player can use certain environmental elements to slow monster" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mOfr0P0r4CPUHih_2UMP-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eErwW0Pumjf_54Cr9qTD-3" target="mOfr0P0r4CPUHih_2UMP-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eErwW0Pumjf_54Cr9qTD-3" value="&lt;b&gt;Room&lt;/b&gt;&lt;br&gt;Inconsistent lighting, damaged environment, more enemies for the player to sneak past" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="520" y="1440" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mOfr0P0r4CPUHih_2UMP-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mOfr0P0r4CPUHih_2UMP-1" target="mOfr0P0r4CPUHih_2UMP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mOfr0P0r4CPUHih_2UMP-1" value="&lt;div&gt;&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;&lt;/div&gt;Limited lighting, &lt;br/&gt;claustrophobic environment, audio disturbance, player thinks they have &lt;br/&gt;escaped but enemy jumps out behind them and begins to chase" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="1497.5" width="283.33" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="mOfr0P0r4CPUHih_2UMP-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="mOfr0P0r4CPUHih_2UMP-3" target="mOfr0P0r4CPUHih_2UMP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mOfr0P0r4CPUHih_2UMP-3" value="&lt;b&gt;Room&lt;/b&gt;&lt;br&gt;Inconsistent lighting, damaged environment, monster resumes hunting player, player can use certain environmental elements to slow/kill monster" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="811.66" y="1240" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mOfr0P0r4CPUHih_2UMP-5" value="&lt;b&gt;Room&lt;br&gt;&lt;/b&gt;Player gets here to beat the game" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="811.66" y="960" width="200" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
