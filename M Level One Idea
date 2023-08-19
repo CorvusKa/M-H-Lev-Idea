@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-18T20:25:55.562Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="AjEA471eUF5d3BCeYsmP" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-19T18:28:27.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="MKhcEkT082GLatgwMcC-" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="265" dy="-2554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -7,19 +7,19 @@
         <mxCell id="rbpI2pTfqWh-9glp8UG0-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zShIpSAWrSGLEuqoL6hk-0" target="rbpI2pTfqWh-9glp8UG0-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zShIpSAWrSGLEuqoL6hk-0" value="&lt;b&gt;Start&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Setting atmosphere going into level, consistent lighting, background audio, small room with clear linear direction, safe area allowing player to understand controls &lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="zShIpSAWrSGLEuqoL6hk-0" value="&lt;b&gt;Start&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Setting atmosphere going into level, consistent lighting, background audio, audio disturbance, small open room with clear linear direction, safe area allowing player to understand controls &lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1180" y="4750" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="rbpI2pTfqWh-9glp8UG0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rbpI2pTfqWh-9glp8UG0-0" target="rbpI2pTfqWh-9glp8UG0-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rbpI2pTfqWh-9glp8UG0-0" value="&lt;div&gt;&lt;b&gt;Corridor&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Consistent lighting but lower intensity, architecture is mostly undamaged, blood on floor&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rotation=0;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rbpI2pTfqWh-9glp8UG0-0" value="&lt;div&gt;&lt;b&gt;Corridor&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Consistent lighting but lower intensity, architecture is mostly undamaged, blood on floor&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rotation=0;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1210" y="4450" width="140" height="260" as="geometry" />
         </mxCell>
         <mxCell id="k7dUBg5-WF2BYMw33X4B-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rbpI2pTfqWh-9glp8UG0-6" target="k7dUBg5-WF2BYMw33X4B-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rbpI2pTfqWh-9glp8UG0-6" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;Consistent lighting, more open space, player discovers first dead body with more blood" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rbpI2pTfqWh-9glp8UG0-6" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;Consistent lighting, more open space, player discovers first dead body with more blood, loud continuous audio sound" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1205" y="4260" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="trMNzowI7VtJNsK1UWpP-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k7dUBg5-WF2BYMw33X4B-2" target="trMNzowI7VtJNsK1UWpP-0" edge="1">
@@ -28,19 +28,19 @@
         <mxCell id="trMNzowI7VtJNsK1UWpP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="k7dUBg5-WF2BYMw33X4B-2" target="trMNzowI7VtJNsK1UWpP-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k7dUBg5-WF2BYMw33X4B-2" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;As player enters door crashes behind them, siren plays to alert player, more chaotic environment with bodies and blood everywhere, event where player first sees enemy" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="k7dUBg5-WF2BYMw33X4B-2" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;As player enters door crashes behind them, siren plays to alert player, more chaotic environment with bodies and blood everywhere, event where player first sees enemy" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1400" y="4260" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ypDOlkb7LDiOMCDBWHFV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="trMNzowI7VtJNsK1UWpP-0" target="trMNzowI7VtJNsK1UWpP-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="trMNzowI7VtJNsK1UWpP-0" value="&lt;div&gt;&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Limited lighting, claustrophobic environment,&amp;nbsp; audio disturbance&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="trMNzowI7VtJNsK1UWpP-0" value="&lt;div&gt;&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Limited lighting, claustrophobic environment,&amp;nbsp; audio disturbance&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1600" y="4305" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ypDOlkb7LDiOMCDBWHFV-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="trMNzowI7VtJNsK1UWpP-3" target="ypDOlkb7LDiOMCDBWHFV-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="trMNzowI7VtJNsK1UWpP-3" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;Players second event encounter with monster, audio disturbance, lighting disruption, body and blood everywhere " style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="trMNzowI7VtJNsK1UWpP-3" value="&lt;b&gt;Room &lt;/b&gt;&lt;br&gt;Players second event encounter with monster, audio disturbance, lighting disruption, body and blood everywhere " style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1625" y="4410" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ypDOlkb7LDiOMCDBWHFV-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ypDOlkb7LDiOMCDBWHFV-2" target="ypDOlkb7LDiOMCDBWHFV-5" edge="1">
@@ -49,34 +49,34 @@
         <mxCell id="ypDOlkb7LDiOMCDBWHFV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ypDOlkb7LDiOMCDBWHFV-2" target="ypDOlkb7LDiOMCDBWHFV-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ypDOlkb7LDiOMCDBWHFV-2" value="&lt;div&gt;&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Limited lighting, claustrophobic environment,&amp;nbsp; audio disturbance, , sound of monster going into vent, locked door player needs key&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ypDOlkb7LDiOMCDBWHFV-2" value="&lt;div&gt;&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Limited lighting, claustrophobic environment,&amp;nbsp; audio disturbance, , sound of monster going into vent, locked door player needs key&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1590" y="4600" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ypDOlkb7LDiOMCDBWHFV-5" value="&lt;b&gt;Side Room/Dead End&lt;/b&gt;&lt;br&gt;Green light indicating key" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ypDOlkb7LDiOMCDBWHFV-5" value="&lt;b&gt;Side Room/Dead End&lt;/b&gt;&lt;br&gt;Green light indicating key location" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1400" y="4565" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ZPZOet-at7Rkig4fCnDB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ypDOlkb7LDiOMCDBWHFV-10" target="ZPZOet-at7Rkig4fCnDB-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7mGA8aDztt7m-Dmo2kNc-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ypDOlkb7LDiOMCDBWHFV-10" target="ZPZOet-at7Rkig4fCnDB-6">
+        <mxCell id="7mGA8aDztt7m-Dmo2kNc-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ypDOlkb7LDiOMCDBWHFV-10" target="ZPZOet-at7Rkig4fCnDB-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ypDOlkb7LDiOMCDBWHFV-10" value="&lt;b&gt;Final Room&lt;br&gt;&lt;/b&gt;Damaged room, flickering lighting throughout, player drops in from a vent, first full encounter with monster, must sneak past" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ypDOlkb7LDiOMCDBWHFV-10" value="&lt;b&gt;Final Room&lt;br&gt;&lt;/b&gt;Damaged room, flickering lighting throughout, player drops in from a vent, first full encounter with monster, must sneak past, green light indicating direction, green side room contains key" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1625" y="4720" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="ZPZOet-at7Rkig4fCnDB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZPZOet-at7Rkig4fCnDB-2" target="ZPZOet-at7Rkig4fCnDB-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZPZOet-at7Rkig4fCnDB-2" value="&lt;div&gt;&lt;b&gt;Vent/Small Passage&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Limited lighting, claustrophobic environment, audio disturbance, key for final locked door, player thinks they have escaped&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ZPZOet-at7Rkig4fCnDB-2" value="&lt;div&gt;&lt;b&gt;Green Side Room/Small Passage&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Limited lighting, claustrophobic environment, audio disturbance, key for final locked door, player thinks they have escaped, audio of enemy trying to get into the room&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1820" y="4830" width="250" height="75" as="geometry" />
         </mxCell>
         <mxCell id="MuOBFEkT6kw9k7F1dXTO-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ZPZOet-at7Rkig4fCnDB-6" target="MuOBFEkT6kw9k7F1dXTO-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZPZOet-at7Rkig4fCnDB-6" value="&lt;div&gt;&lt;b&gt;Final Room &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Same final room, green light indicating escape, enemy appears behind player and chases them to the final locked door&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="ZPZOet-at7Rkig4fCnDB-6" value="&lt;div&gt;&lt;b&gt;Final Room &lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Same final room, green light indicating escape, enemy appears behind player and chases them to the final locked door&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2120" y="4720" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="MuOBFEkT6kw9k7F1dXTO-0" value="&lt;b&gt;End Room &lt;/b&gt;&lt;br&gt;Locked room, player must get here in order to complete the level " style="whiteSpace=wrap;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="MuOBFEkT6kw9k7F1dXTO-0" value="&lt;b&gt;End Room &lt;/b&gt;&lt;br&gt;Locked room, player must get here in order to complete the level " style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="2120" y="4530" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
