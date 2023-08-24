@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-21T01:10:48.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="QpSFWSRNE6FmedpXEB-P" version="21.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-24T19:57:59.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/116.0" etag="KNizJauUt2DEyyG0AuNF" version="21.6.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="265" dy="-2554" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -77,7 +77,7 @@
           <mxGeometry x="2120" y="4720" width="150" height="150" as="geometry" />
         </mxCell>
         <mxCell id="MuOBFEkT6kw9k7F1dXTO-0" value="&lt;b&gt;End &lt;/b&gt;&lt;br&gt;Locked room, player must get here in order to complete the level " style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="2120" y="4530" width="150" height="150" as="geometry" />
+          <mxGeometry x="2120" y="4518" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
